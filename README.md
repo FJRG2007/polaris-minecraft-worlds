@@ -1,0 +1,18 @@
+World templates a Minecraft server can be created on. Each archive is the map's
+world folder, repacked so a server can extract it straight into its data
+directory: the client-side leftovers of whoever built it (macOS metadata, per
+player data, the region files of superseded formats, client mod caches) are
+removed and nothing else is changed.
+
+These are community maps, redistributed here so a server can fetch its world
+while it is being created. Credit and the page each one came from:
+
+| Map | Author | Minecraft | Source |
+| --- | --- | --- | --- |
+| Skyblock 2.1 | Noobcrew | 1.16.4 world, plays on any later release | https://skyblock.net |
+| Parkour Spiral 3.0.3 | Hielke | 26.2 | https://hielkemaps.com/maps/parkour-spiral |
+| Bedwars: Treasure Island 1.0 | TriplicataMC | 1.19.4 | https://www.minecraftmaps.com/51834-bedwars-treasure-island |
+| Luckyblock Towers | ALEX_CY and NICO_THE_PRO | 1.13 world, plays on any later release | https://www.minecraftmaps.com |
+
+If you are the author of one of these and would rather it were not mirrored
+here, open an issue and it will be removed.
